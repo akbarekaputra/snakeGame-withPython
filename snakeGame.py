@@ -4,7 +4,7 @@ import random
 
 pygame.init()
 
-# color
+# color setting
 primary = (254, 173, 30)
 secondary = (255, 255, 255)
 dark = (33, 37, 41)
